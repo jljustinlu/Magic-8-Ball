@@ -1,1 +1,1 @@
-# Magic-8-Ball
+Simple C++ Magic 8-ball program for use in terminal.
