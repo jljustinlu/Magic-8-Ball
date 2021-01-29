@@ -12,7 +12,7 @@ unsigned int random_num() {
 int main() {
 
 	std::cout << "Welcome to Magic 8-Ball" << "\n"
-		<< "Type in your question:" << "\n";
+		<< "Type in your yes/no question:" << "\n";
 
 	std::string question = "";
 	std::cin >> question;
